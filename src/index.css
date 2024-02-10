@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-margin-right {
+  margin-right: 30rem;
+  padding: 20px; 
+}
